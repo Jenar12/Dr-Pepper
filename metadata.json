@@ -1,0 +1,5 @@
+{
+  "name": "Dr Pepper: One of a Kind",
+  "description": "Experience the 23-flavor symphony with the all-new Dr Pepper 2026 digital experience. Explore the Flavor Lab, find Dr Pepper near you, and join Pepper Perks.",
+  "requestFramePermissions": ["geolocation"]
+}
